@@ -733,7 +733,7 @@
       "url": "icons\/windows11\/Wide310x150Logo.scale-400.png"
     },
     {
-      "hash": "sha256-g3mchHY1msfwQHmSdpMMLsAFIQLpnfLl9uTOsP0oGR8=",
+      "hash": "sha256-N9UrywUx4UIR06aAzUrQ\/glsWN36New6IqC8JwjvP8c=",
       "url": "index.html"
     },
     {
@@ -745,5 +745,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "G47G0iiy"
+  "version": "lIil6G4E"
 };
