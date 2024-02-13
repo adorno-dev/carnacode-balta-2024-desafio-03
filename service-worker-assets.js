@@ -205,10 +205,6 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": ".nojekyll"
-    },
-    {
       "hash": "sha256-5hh3frNWVFQ5SbqZrM493\/EbiBJLXSkOaFLtJfGlhcc=",
       "url": "assets\/icon-no-bg.png"
     },
@@ -737,7 +733,7 @@
       "url": "icons\/windows11\/Wide310x150Logo.scale-400.png"
     },
     {
-      "hash": "sha256-qWblD2fvrTRyZfS0WgbKhLeLlGzlSIfN7GNTussv4gM=",
+      "hash": "sha256-g3mchHY1msfwQHmSdpMMLsAFIQLpnfLl9uTOsP0oGR8=",
       "url": "index.html"
     },
     {
@@ -749,5 +745,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "TNvnXuCS"
+  "version": "OpFl26ah"
 };
